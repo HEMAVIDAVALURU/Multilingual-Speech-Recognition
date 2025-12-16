@@ -60,7 +60,9 @@ Mac/Linux
 source venv/bin/activate
 ```
 ### **4️⃣ Install Required Libraries**
+```
 pip install SpeechRecognition deep-translator pyaudio
+```
 
 
 ⚠️ Note for PyAudio Installation (Windows):
@@ -69,11 +71,14 @@ If PyAudio fails to install:
 Download the compatible .whl file from Unofficial Python Wheels
 
 Install using:
-
+```
 pip install PyAudio-0.2.xx-cp3x-cp3x-win_amd64.whl
+```
 
 ### **5️⃣ Run the Application**
+```
 python app.py
+```
 
 ## **▶️ How to Use**
 
