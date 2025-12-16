@@ -93,11 +93,13 @@ Telugu
 Tamil
 
 ## **📄 Project Structure**
+```text
 multilingual-speech-translation/
 │
 ├── app.py
 ├── README.md
 └── requirements.txt
+```
 
 ## **💡 Future Enhancements**
 
