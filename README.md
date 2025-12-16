@@ -38,22 +38,27 @@ Working microphone
 
 Internet connection (for Google Speech & Translation APIs)
 ### **2️⃣ Clone the Repository**
+```
 https://github.com/HEMAVIDAVALURU/Multilingual-Speech-Recognition
+```
 ### **3️⃣ Create a Virtual Environment (Optional but Recommended)**
+```bash
 python -m venv venv
-
+```
 
 Activate it:
 
 Windows
-
+```bash
 venv\Scripts\activate
+```
 
 
 Mac/Linux
 
+```bash
 source venv/bin/activate
-
+```
 ### **4️⃣ Install Required Libraries**
 pip install SpeechRecognition deep-translator pyaudio
 
